@@ -15,7 +15,7 @@ DeSharpify is a simple browser add-on that automatically replaces the German sha
 4. Click on `Load Temporary Add-on...`.
 5. Select the `manifest.json` file from the `FireFox` directory.
 
-I will try to publish this add-on sometime in the future for easier installation.
+Url as soon as its public: https://addons.mozilla.org/de/firefox/addon/desharpify/
 
 ## Usage
 - The add-on will automatically replace ß with ss and ẞ with SS in ChatGPT responses.
