@@ -1,10 +1,13 @@
 # DeSharpify
 
-DeSharpify is a simple browser add-on that automatically replaces the German sharp ß with a standard ss for better readability and consistency in ChatGPT responses.
+DeSharpify is a simple browser add-on that automatically replaces the German sharp ß with a standard ss for better readability and consistency in AI chat responses (ChatGPT, GitHub Copilot, Google Gemini).
 
 ## Features
-- Automatically replaces ß with ss and ẞ with SS in ChatGPT responses.
-- Easy to enable and disable.
+- Automatically replaces ß with ss and ẞ with SS in responses from:
+  - ChatGPT
+  - GitHub Copilot Chat
+  - Google Gemini
+- Easy to enable and disable with a single click
 
 ## Installation
 
