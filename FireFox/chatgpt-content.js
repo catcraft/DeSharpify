@@ -43,3 +43,4 @@ browser.runtime.onMessage.addListener((message) => {
 });
 
 scanDOM();
+
